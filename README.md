@@ -29,5 +29,5 @@ Use ml flow to do experiment tracking using various paramters.
 
 # Orchestration
 
-![ML_Flow_screenshot2](https://github.com/AkashPatel-1996/practice_repo_zoom_camp/assets/84029971/5ae4b75f-7a19-49e3-8a0b-6901f73c79c2)
+![Screenshot 2024-06-30 191531](https://github.com/AkashPatel-1996/practice_repo_zoom_camp/assets/84029971/6de1579f-2f12-41ee-a4aa-f72df6ff0211)
 
