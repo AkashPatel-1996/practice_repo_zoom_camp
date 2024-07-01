@@ -1,4 +1,5 @@
-# NYC Taxi Trip Data Preprocessing
+
+## 02) Experiment Tracking
 
 This Python script prepares NYC taxi trip data for machine learning tasks. It reads raw data from Parquet files, performs preprocessing including feature engineering and categorical encoding using `DictVectorizer` from scikit-learn, and then saves the preprocessed data and model artifacts.
 
@@ -19,9 +20,6 @@ This Python script prepares NYC taxi trip data for machine learning tasks. It re
 - Scikit-learn
 - Click
 
-### Installation
+### ML Flow
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your/repository.git
-   cd repository
+Use ml flow to do experiment tracking using various paramters.
