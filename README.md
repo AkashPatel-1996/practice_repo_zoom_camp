@@ -27,7 +27,15 @@ Use ml flow to do experiment tracking using various paramters.
 ![ML_Flow_screenshot2](https://github.com/AkashPatel-1996/practice_repo_zoom_camp/assets/84029971/0c787abb-8fe3-48b7-b4f4-39fa14094e50)
 
 
+
+
 # Orchestration
 
 ![Screenshot 2024-06-30 191531](https://github.com/AkashPatel-1996/practice_repo_zoom_camp/assets/84029971/6de1579f-2f12-41ee-a4aa-f72df6ff0211)
+
+
+# Deployment
+
+![deployment_screenshot](https://github.com/AkashPatel-1996/practice_repo_zoom_camp/assets/84029971/5b9af56a-554c-41f1-945a-169031e047c1)
+
 
