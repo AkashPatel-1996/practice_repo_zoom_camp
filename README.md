@@ -23,3 +23,5 @@ This Python script prepares NYC taxi trip data for machine learning tasks. It re
 ### ML Flow
 
 Use ml flow to do experiment tracking using various paramters.
+
+![ML_Flow_screenshot2](https://github.com/AkashPatel-1996/practice_repo_zoom_camp/assets/84029971/0c787abb-8fe3-48b7-b4f4-39fa14094e50)
